@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Mapa>
+	<Ciudad nombre="Atenas" desc="En la antig&#252;edad, Atenas era una ciudad-estado y sus enfrentamientos con Esparta, su vecinam fueron muy famosos. Contribuy&#243; en gran medida al progreso de las ciencias, de la filosof&#237;a, de las artes y del teatro"/>
+	<Ciudad nombre="Bagdad" desc="En la antig&#252;edad, Irak se llamaba Mesopotamia. En la actualidad, los pa&#237;ses vecinos son Jordania, Siria, Turqu&#237;a, Ir&#225;n y Arabia Saud&#237;"/>
+	<Ciudad nombre="Bamako" desc="Bamako, con una poblaci&#243;n de m&#225;s de 1 mill&#243;n y medio de habitantes es la capital de Mali,que es un &#225;rido pa&#237;s situado en el oeste de Africa y al lado del desierto del Sahara"/>
+	<Ciudad nombre="Bangkok" desc="Tailandia, que anteriormente se llam&#243; Siam, es un poco mayor que Espa&#241;, y est&#225; rodeada por Birmania, Laos, Camboya y Malasia"/>
+	<Ciudad nombre="Budapest" desc="Hungr&#237;a, pa&#237;s c&#237;ngaro, comparte sus fronteras con Checoslovaquiam Austria, Yugoslavia y con Rumania"/>
+	<Ciudad nombre="Buenos Aires" desc="Argentina es el segundo pa&#237;s m&#225;s grande de Am&#233;rica del Sur, despu&#233;s de Brasil. Su geograf&#237;a es variada."/>
+	<Ciudad nombre="El Cairo" desc="En el Cairo, la capital de Egipto, se citan lo antiguo y lo moderno. No muy lejos de la ciudad moderna se encuentran la estatua de la esfinge y las grandes piramides"/>
+	<Ciudad nombre="Colombo" desc="Colombo es la capital y la ciudad m&#225;s grande de la isla de Sri Lanka, que se extiende por la costa sudeste de la India"/>
+	<Ciudad nombre="Estambul" desc="Bizancio que despu&#233;s fue Constantinopla y despu&#233;s Estambul, era la capital del Imperio Romano de Oriente"/>
+	<Ciudad nombre="Katmandu" desc="Katmandu, situado en el Himalaya y dotado de 1 millon de habitantes, es la capital de Nepal"/>
+	<Ciudad nombre="Kigali" desc="Kigali es la capital de Ruanda, en cuya espesa jungla habitan los gorilas de monta&#241;a, especie en peligro de extinci&#243;n"/>
+	<Ciudad nombre="Lima" desc="Lima es la capital de Per&#250;, y tambi&#233;n su ciudad m&#225;s grande. Uno de los monumentos m&#225;s conocidos de la ciudad es el palacio del arzobispado, que recuerda el pasado colonial de Per&#250;"/>
+	<Ciudad nombre="Londres" desc="La Gran Breta&#241;a, que junto con Irlanda del Norte forma el Reino Unido, es una monarqu&#237;a constitucional. El jefe de estado es un rey o una reina, pero el pa&#237;s est&#225; gobernado por un parlamento democr&#225;ticamente elegido"/>
+	<Ciudad nombre="Mexico DF" desc="Antes de ser colonizado por Espa&#241;a, M&#233;xico era la cuna de las civilizaciones indias avanzadas, como los mayas, los toltecas y los aztecas"/>
+	<Ciudad nombre="Montreal" desc="Montreal es la segunda ciudad m&#225;s grande de Canad&#225;. Uno de sus principales monumentos es la Iglesia de NotreDame de Bonsecours"/>
+	<Ciudad nombre="Moroni" desc="La principal industria del archipi&#233;lago de las Comores es el perfume, fabricado con plantas que crecen en las islas"/>
+	<Ciudad nombre="Moscu" desc="Mosc&#250;, capital de Rusia, es el hogar de la antigua fortaleza del Kremlin, lugar de residencia de los zares de Rusia hasta 1712"/>
+	<Ciudad nombre="Nueva Delhi" desc="En la india se hablan 16 idiomas diferentes, de los cuales el hindi y el ingl&#233;s son los oficiales"/>
+	<Ciudad nombre="Nueva York" desc="Durante muchos años, los emigrantes que han llegado a Am&#233;rica han sido saludados por la estatua de la Libertad, ubicada en el puerto de Nueva York"/>
+	<Ciudad nombre="Oslo" desc="Noruega es un pa&#237;s monta&#241;oso con un relieve muy diverso. Est&#225; rodeada por una zona litoral estrecha, que est&#225; formada por una sucesi&#243;n de fiordos"/>
+	<Ciudad nombre="Paris" desc="Par&#237;s, la capital de Francia, es un centro art&#237;stico y cultural; es la cuna de la torre Eiffel, famosa en el mundo entero"/>
+	<Ciudad nombre="Pekin" desc="Pekin, donde la poblacion llega a los 20 millones de habitantes, es la segunda ciudad m&#225;s grande de la Republica Popular de China"/>
+	<Ciudad nombre="Port Moresby" desc="Papua Nueva Guinea obtuvo su independencia en 1975. Sus vecinos m&#225;s cercanos son Indonesia y Australia"/>
+	<Ciudad nombre="Reykiavik" desc="Reykiavik, capital de Islandia, es un pintoresco puerto en el que se agrupan m&#225;s de la tercera parte de sus habitantes"/>
+	<Ciudad nombre="Rio de Janeiro" desc="Brasil, antigua colonia portuguesa, es el pa&#237;s mas grande de Am&#233;rica del sur"/>
+	<Ciudad nombre="Roma" desc="En el renacimiento, Italia estaba dividida en varias ciudades-estado que eral los n&#250;cleos art&#237;sticos y cient&#237;ficos del mundo"/>
+	<Ciudad nombre="San Marino" desc="La Rep&#250;blica de San Marino, con su poblaci&#243;n de 32.000 habitantes y sus 61km2, es la mas peque&#241;a pero tambi&#233;n la m&#225;s antigua rep&#250;blica europea"/>
+	<Ciudad nombre="Singapur" desc="Situada casi en el ecuador de Asia del sureste, Singapur esta compuesta por una gran isla y por 40 islas mas peque&#241;as"/>
+	<Ciudad nombre="Sidney" desc="La capital de Australia es Canberra, ubicada en el sudeste, entre Sydney y Melbourne"/>
+	<Ciudad nombre="Tokio" desc="Japon se compone de cuatro islas principales: Honshu - donde se encuentra Tokio - Hokkaido, Kyushu y Shikoku"/>
+	<Conexion primerCiudad="San Marino" segundaCiudad="Oslo" distancia="1782"/>
+	<Conexion primerCiudad="San Marino" segundaCiudad="Reykiavik" distancia="3108"/>
+	<Conexion primerCiudad="San Marino" segundaCiudad="Colombo" distancia="7681"/>
+	<Conexion primerCiudad="Oslo" segundaCiudad="Bagdad" distancia="3842"/>
+	<Conexion primerCiudad="Bagdad" segundaCiudad="Nueva Delhi" distancia="3161"/>
+	<Conexion primerCiudad="Oslo" segundaCiudad="Moroni" distancia="8484"/>
+	<Conexion primerCiudad="Oslo" segundaCiudad="Singapur" distancia="10060"/>
+	<Conexion primerCiudad="Singapur" segundaCiudad="San Marino" distancia="10023"/>
+	<Conexion primerCiudad="Singapur" segundaCiudad="Roma" distancia="10029"/>
+	<Conexion primerCiudad="Singapur" segundaCiudad="Nueva Delhi" distancia="4148"/>
+	<Conexion primerCiudad="Roma" segundaCiudad="Londres" distancia="1437"/>
+	<Conexion primerCiudad="Roma" segundaCiudad="Pekin" distancia="8137"/>
+	<Conexion primerCiudad="Roma" segundaCiudad="Mexico DF" distancia="10265"/>
+	<Conexion primerCiudad="Mexico DF" segundaCiudad="Tokio" distancia="10739"/>
+	<Conexion primerCiudad="Mexico DF" segundaCiudad="Paris" distancia="9220"/>
+	<Conexion primerCiudad="Mexico DF" segundaCiudad="Bangkok" distancia="15783"/>
+	<Conexion primerCiudad="Paris" segundaCiudad="Nueva York" distancia="5844"/>
+	<Conexion primerCiudad="Paris" segundaCiudad="Moscu" distancia="2489"/>
+	<Conexion primerCiudad="Paris" segundaCiudad="Port Moresby" distancia="14568"/>
+	<Conexion primerCiudad="Reykiavik" segundaCiudad="Buenos Aires" distancia="11448"/>
+	<Conexion primerCiudad="Nueva York" segundaCiudad="Reykiavik" distancia="4208"/>
+	<Conexion primerCiudad="Nueva York" segundaCiudad="Londres" distancia="5577"/>
+	<Conexion primerCiudad="Nueva York" segundaCiudad="El Cairo" distancia="9032"/>
+	<Conexion primerCiudad="Londres" segundaCiudad="Katmandu" distancia="7342"/>
+	<Conexion primerCiudad="Londres" segundaCiudad="Lima" distancia="10182"/>
+	<Conexion primerCiudad="Lima" segundaCiudad="Moroni" distancia="12929"/>
+	<Conexion primerCiudad="Lima" segundaCiudad="Sidney" distancia="12814"/>
+	<Conexion primerCiudad="Lima" segundaCiudad="Bangkok" distancia="19714"/>
+	<Conexion primerCiudad="Sidney" segundaCiudad="El Cairo" distancia="14432"/>
+	<Conexion primerCiudad="Sidney" segundaCiudad="Tokio" distancia="7835"/>
+	<Conexion primerCiudad="Sidney" segundaCiudad="Montreal" distancia="16048"/>
+	<Conexion primerCiudad="Tokio" segundaCiudad="Nueva Delhi" distancia="5842"/>
+	<Conexion primerCiudad="Tokio" segundaCiudad="Reykiavik" distancia="8808"/>
+	<Conexion primerCiudad="Nueva Delhi" segundaCiudad="Katmandu" distancia="802"/>
+	<Conexion primerCiudad="Katmandu" segundaCiudad="Atenas" distancia="5770"/>
+	<Conexion primerCiudad="Katmandu" segundaCiudad="Kigali" distancia="6765"/>
+	<Conexion primerCiudad="Atenas" segundaCiudad="Buenos Aires" distancia="11699"/>
+	<Conexion primerCiudad="Atenas" segundaCiudad="Montreal" distancia="7608"/>
+	<Conexion primerCiudad="Atenas" segundaCiudad="Moscu" distancia="2233"/>
+	<Conexion primerCiudad="Buenos Aires" segundaCiudad="El Cairo" distancia="11826"/>
+	<Conexion primerCiudad="Buenos Aires" segundaCiudad="Colombo" distancia="14771"/>
+	<Conexion primerCiudad="Colombo" segundaCiudad="Rio de Janeiro" distancia="13701"/>
+	<Conexion primerCiudad="Colombo" segundaCiudad="Bangkok" distancia="2384"/>
+	<Conexion primerCiudad="El Cairo" segundaCiudad="Estambul" distancia="1237"/>
+	<Conexion primerCiudad="Estambul" segundaCiudad="Rio de Janeiro" distancia="10291"/>
+	<Conexion primerCiudad="Estambul" segundaCiudad="Moroni" distancia="6050"/>
+	<Conexion primerCiudad="Estambul" segundaCiudad="Pekin" distancia="7064"/>
+	<Conexion primerCiudad="Rio de Janeiro" segundaCiudad="Montreal" distancia="8213"/>
+	<Conexion primerCiudad="Rio de Janeiro" segundaCiudad="Port Moresby" distancia="16260"/>
+	<Conexion primerCiudad="Port Moresby" segundaCiudad="Moscu" distancia="12108"/>
+	<Conexion primerCiudad="Pekin" segundaCiudad="Budapest" distancia="7349"/>
+	<Conexion primerCiudad="Pekin" segundaCiudad="Bamako" distancia="11846"/>
+	<Conexion primerCiudad="Budapest" segundaCiudad="Kigali" distancia="5608"/>
+	<Conexion primerCiudad="Budapest" segundaCiudad="Bamako" distancia="4623"/>
+	<Conexion primerCiudad="Budapest" segundaCiudad="Bagdad" distancia="2648"/>
+	<Conexion primerCiudad="Bamako" segundaCiudad="Kigali" distancia="4509"/>
+	<Conexion primerCiudad="Bamako" segundaCiudad="Bangkok" distancia="11625"/>
+	<Conexion primerCiudad="Kigali" segundaCiudad="Port Moresby" distancia="12948"/>
+	<Conexion primerCiudad="Moscu" segundaCiudad="Moroni" distancia="7529"/>
+	<Conexion primerCiudad="Montreal" segundaCiudad="Bagdad" distancia="9269"/>
+</Mapa>

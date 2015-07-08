@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Objetos>
+	<Comun paises="4">
+		<Objeto nombre="el secreto de una sibila" ciudadInicial="Atenas"/>
+		<Objeto nombre="toda la cosecha de t&#233; de la isla" ciudadInicial="Colombo"/>
+		<Objeto nombre="una estuatuilla esquimal de marfil" ciudadInicial="Montreal"/>
+		<Objeto nombre="un antiguo traje de gaucho" ciudadInicial="Buenos Aires"/>
+		<Objeto nombre="los planos del arquitecto de Brasilia" ciudadInicial="Rio de Janeiro"/>
+		<Objeto nombre="una rara colecci&#243;n de ataudes de Transilvania" ciudadInicial="Budapest"/>
+		<Objeto nombre="un raro manuscrito musulman" ciudadInicial="Bamako"/>
+		<Objeto nombre="un gorila blanco de las monta&#241;as" ciudadInicial="Kigali"/>
+		<Objeto nombre="toda la cosecha de nuez de coco" ciudadInicial="Moroni"/>
+		<Objeto nombre="un antiguo calendario azteca" ciudadInicial="Mexico DF"/>
+		<Objeto nombre="un sayal de monje del siglo XVIII" ciudadInicial="San Marino"/>
+		<Objeto nombre="una estatua de Shiva" ciudadInicial="Nueva Delhi"/>
+		<Objeto nombre="una estatua de plata de una llama" ciudadInicial="Lima"/>
+		<Objeto nombre="una tabla Babil&#243;nica" ciudadInicial="Bagdad"/>
+		<Objeto nombre="el atlas de bronce del Rockefeller Center" ciudadInicial="Nueva York"/>
+		<Objeto nombre="una rara orqu&#237;dea" ciudadInicial="Singapur"/>
+		<Objeto nombre="el manuscrito de una saga escandinava" ciudadInicial="Reykiavik"/>
+		<Objeto nombre="un antiguo boomerang de colecci&#243;n" ciudadInicial="Sidney"/>
+		<Objeto nombre="el mapa de un itinerario especial al Everest" ciudadInicial="Katmandu"/>
+		<Objeto nombre="los uniformes de la polic&#237;a montada" ciudadInicial="Montreal"/>
+	</Comun>
+	
+	<Valioso paises="5">
+		<Objeto nombre="la m&#225;scara de Priamo" ciudadInicial="Atenas"/>
+		<Objeto nombre="una espada samurai" ciudadInicial="Tokio"/>
+		<Objeto nombre="una valiosa carpa real" ciudadInicial="Tokio"/>
+		<Objeto nombre="un antiguo abanico de marfil" ciudadInicial="Colombo"/>
+		<Objeto nombre="los mapas de la Gran Pir&#225;mide" ciudadInicial="El Cairo"/>
+		<Objeto nombre="le&#243;n de piedra guardian del danubio" ciudadInicial="Budapest"/>
+		<Objeto nombre="una joya que data del imperio de Mal&#237;" ciudadInicial="Bamako"/>
+		<Objeto nombre="un antiguo caballo Tang" ciudadInicial="Pekin"/>
+		<Objeto nombre="el buda de oro" ciudadInicial="Bangkok"/>
+		<Objeto nombre="unas bolas de oro s&#243;lido" ciudadInicial="Buenos Aires"/>
+		<Objeto nombre="la corona de la Reina del Carnaval" ciudadInicial=""/>
+		<Objeto nombre="el collar mas valioso de la isla" ciudadInicial="Port Moresby"/>
+		<Objeto nombre="un antiguo totem tribal" ciudadInicial="Port Moresby"/>
+		<Objeto nombre="la receta olvidada de un veneno de los pigmeos" ciudadInicial="Kigali"/>
+		<Objeto nombre="los planes del haren del sultan" ciudadInicial="Moroni"/>
+		<Objeto nombre="la cruz engastada de joyas de Constantino" ciudadInicial="Estambul"/>
+		<Objeto nombre="la sortija de esmeraldas de un sultan" ciudadInicial="Estambul"/>
+		<Objeto nombre="una pintura mural de Orosco" ciudadInicial="Mexico DF"/>
+		<Objeto nombre="la prestigiosa colecci&#243;n de sellos del capitan regente" ciudadInicial="San Marino"/>
+		<Objeto nombre="la corona del C&#233;sar" ciudadInicial="Roma"/>
+		<Objeto nombre="la sortija del Papa" ciudadInicial="Roma"/>
+		<Objeto nombre="el ferry de Staten Island" ciudadInicial="Nueva York"/>
+		<Objeto nombre="las gafas de Gandhi" ciudadInicial="Nueva Delhi"/>
+		<Objeto nombre="casita de mu&#241;ecas de Ibsen" ciudadInicial="Oslo"/>
+		<Objeto nombre="una m&#225;scara de oro inca" ciudadInicial="Lima"/>
+		<Objeto nombre="una alfombra voladora" ciudadInicial="Bagdad"/>
+		<Objeto nombre="el Merlion, el le&#243;n de oro" ciudadInicial="Singapur"/>
+		<Objeto nombre="las llaves de la Torre de Londres" ciudadInicial="Londres"/>
+		<Objeto nombre="las joyas de la corona" ciudadInicial="Londres"/>
+		<Objeto nombre="el mazo de apertura de sesi&#243;n del Althing" ciudadInicial="Reykiavik"/>
+		<Objeto nombre="un collar muy raro de coral negro" ciudadInicial="Sidney"/>
+		<Objeto nombre="una alfombra &#250;nica de marta cibelina" ciudadInicial="Moscu"/>
+		<Objeto nombre="las llaves del Kremlin" ciudadInicial="Moscu"/>
+		<Objeto nombre="los ascensores de la torre Eiffel" ciudadInicial="Paris"/>
+		<Objeto nombre="la colecci&#243;n de piedras reales" ciudadInicial="Katmandu"/>
+		<Objeto nombre="el gato siames de la Reina" ciudadInicial="Bangkok"/>
+	</Valioso>
+	
+	<MuyValioso paises="7">
+		<Objeto nombre="el tal&#243;n de Aquiles" ciudadInicial="Atenas"/>
+		<Objeto nombre="la espada del emperador" ciudadInicial="Tokio"/>
+		<Objeto nombre="un rubi &#250;nico en el mundo" ciudadInicial="Colombo"/>
+		<Objeto nombre="la m&#225;scara de Tutankamon" ciudadInicial="El Cairo"/>
+		<Objeto nombre="la serpiente de Cleopatra" ciudadInicial="El Cairo"/>
+		<Objeto nombre="la silla de montar de Atila" ciudadInicial="Budapest"/>
+		<Objeto nombre="las llaves de la Ciudad Prohibida" ciudadInicial="Pekin"/>
+		<Objeto nombre="el sepulcro de Mao Tse Tung" ciudadInicial="Pekin"/>
+		<Objeto nombre="un elefante blanco sagrado del Rey" ciudadInicial="Bangkok"/>
+		<Objeto nombre="la bahia de Hudson" ciudadInicial="Montreal"/>
+		<Objeto nombre="la espada de San Martin" ciudadInicial="Buenos Aires"/>
+		<Objeto nombre="el Cristo de los andes" ciudadInicial="Rio de Janeiro"/>
+		<Objeto nombre="una antigua m&#225;scara papu" ciudadInicial="Port Moresby"/>
+		<Objeto nombre="la corona de un rey watusi" ciudadInicial="Kigali"/>
+		<Objeto nombre="los mosaicos de Santa Sof&#237;a" ciudadInicial="Estambul"/>
+		<Objeto nombre="el elixir secreto de la inmortalidad de un brujo indio" ciudadInicial="Mexico DF"/>
+		<Objeto nombre="un grabado del monte Titano" ciudadInicial="San Marino"/>
+		<Objeto nombre="la antorcha de la estatua de la libertad" ciudadInicial="Nueva York"/>
+		<Objeto nombre="un mono sagrado" ciudadInicial="Nueva Delhi"/>
+		<Objeto nombre="la corona de Olaf V" ciudadInicial="Oslo"/>
+		<Objeto nombre="la espada de Pizarro" ciudadInicial="Lima"/>
+		<Objeto nombre="la l&#225;mpara de Aladino" ciudadInicial="Bagdad"/>
+		<Objeto nombre="la estatua de Sir Stamford Raffles" ciudadInicial="Singapur"/>
+		<Objeto nombre="la l&#225;mpara del famoso Albert Hall" ciudadInicial="Londres"/>
+		<Objeto nombre="el tesoro de los vikingos" ciudadInicial="Reykiavik"/>
+		<Objeto nombre="la gran l&#225;mpara de la Opera" ciudadInicial="Sidney"/>
+		<Objeto nombre="la corona de Ivan el Terrible" ciudadInicial="Moscu"/>
+		<Objeto nombre="la Giocconda" ciudadInicial="Paris"/>
+		<Objeto nombre="el abominable Hombre de las Nieves" ciudadInicial="Katmandu"/>
+	</MuyValioso>
+</Objetos>

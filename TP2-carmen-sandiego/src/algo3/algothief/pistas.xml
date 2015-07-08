@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Pistas>
+	<Facil>
+		<Atenas>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Dijo que quer&#237;a visitar el Parten&#243;n."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario griego."/>
+		</Atenas>
+		
+		<Bagdad>
+			<Bolsa pista="Cambi&#243; su dinero a dinares."/>
+			<Biblioteca pista="Mencion&#243; que quer&#237;a conocer el r&#237;o Tigris."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario &#225;rabe."/>
+		</Bagdad>
+		
+		<Bamako>
+			<Bolsa pista="Cambi&#243; su dinero a francos CFA."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Islam."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario franc&#233;s."/>
+		</Bamako>
+		
+		<Bangkok>
+			<Bolsa pista="Cambi&#243; su dinero a baht."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Budismo."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario tailand&#233;s."/>
+		</Bangkok>
+		
+		<Budapest>
+			<Bolsa pista="Cambi&#243; su dinero a forinto."/>
+			<Biblioteca pista="Quer&#237;a ver el r&#237;o Dunabio."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario h&#250;ngaro."/>
+		</Budapest>
+		
+		<BuenosAires>
+			<Bolsa pista="Cambi&#243; su dinero a pesos."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Tango."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario espa&#241;ol"/>
+		</BuenosAires>
+		
+		<ElCairo>
+			<Bolsa pista="Cambi&#243; su dinero a libras egipcias."/>
+			<Biblioteca pista="Quer&#237;a visitar la pen&#237;nsula del Sina&#237;."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario &#225;rabe."/>
+		</ElCairo>
+		
+		<Colombo>
+			<Bolsa pista="Cambi&#243; su dinero a rupias."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s en visitar el Golfo de Mannar."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario cingal&#233;s."/>
+		</Colombo>
+		
+		<Estambul>
+			<Bolsa pista="Cambi&#243; su dinero a liras."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el Imperio Otomano."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario turco."/>
+		</Estambul>
+		
+		<Katmandu>
+			<Bolsa pista="Cambi&#243; su dinero a rupia nepali."/>
+			<Biblioteca pista="Quer&#237;a conocer el Baruntse."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario nepal&#237;."/>
+		</Katmandu>
+		
+		<Kigali>
+			<Bolsa pista="Cambi&#243; su dinero a franco ruand&#233;s."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la mamba negra."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ki&#241;aruanda."/>
+		</Kigali>
+		
+		<Lima>
+			<Bolsa pista="Cambi&#243; su dinero a soles."/>
+			<Biblioteca pista="Quer&#237;a visitar el monte Huascaran."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario espa&#241;ol."/>
+		</Lima>
+		
+		<Londres>
+			<Bolsa pista="Cambi&#243; su dinero a libras esterlinas."/>
+			<Biblioteca pista="Quer&#237;a visitar el Big Ben."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ingl&#233;s."/>
+		</Londres>
+		
+		<MexicoDF>
+			<Bolsa pista="Cambi&#243; su dinero a pesos."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el monstruo de Gila."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario espa&#241;ol."/>
+		</MexicoDF>
+		
+		<Montreal>
+			<Bolsa pista="Cambi&#243; su dinero a dolar canadiense."/>
+			<Biblioteca pista="Quer&#237;a visitar las cascadas de Montmorency."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ingl&#233;s."/>
+		</Montreal>
+		
+		<Moroni>
+			<Bolsa pista="Cambi&#243; su dinero a franco comorense."/>
+			<Biblioteca pista="Quer&#237;a visitar el karthala."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario &#225;rabe."/>
+		</Moroni>
+		
+		<Moscu>
+			<Bolsa pista="Cambi&#243; su dinero a rublo ruso."/>
+			<Biblioteca pista="Quer&#237;a conocer los montes Urales."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ruso."/>
+		</Moscu>
+		
+		<NuevaDelhi>
+			<Bolsa pista="Cambi&#243; su dinero a rupias indias."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la v&#237;bora gariba."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario hindi."/>
+		</NuevaDelhi>
+		
+		<NuevaYork>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lar."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la Estatua de la Libertad."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ingl&#233;s."/>
+		</NuevaYork>
+		
+		<Oslo>
+			<Bolsa pista="Cambi&#243; su dinero a rupias indias."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la v&#237;bora gariba."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario noruego."/>
+		</Oslo>
+		
+		<Paris>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Mencion&#243; que quer&#237;a visitar la Torre Eiffel."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario franc&#233;s."/>
+		</Paris>
+		
+		<Pekin>
+			<Bolsa pista="Cambi&#243; su dinero a yuan."/>
+			<Biblioteca pista="Dijo que quer&#237;a conocer la Ciudad Prohibida."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario chino mandar&#237;n."/>
+		</Pekin>
+		
+		<PortMoresby>
+			<Bolsa pista="Cambi&#243; su dinero a kinas."/>
+			<Biblioteca pista="Ten&#237;a interes sobre el volc&#225;n Karkar."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ingl&#233;s."/>
+		</PortMoresby>
+		
+		<Reykiavik>
+			<Bolsa pista="Cambi&#243; su dinero a coronas."/>
+			<Biblioteca pista="Quer&#237;a visitar la Torre imagina la paz."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario island&#233;s."/>
+		</Reykiavik>
+		
+		<RiodeJaneiro>
+			<Bolsa pista="Cambi&#243; su dinero a reales."/>
+			<Biblioteca pista="Quer&#237;a visitar la estatua del Cristo Redentor."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario portugu&#233;s."/>
+		</RiodeJaneiro>
+		
+		<Roma>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Mencion&#243; su inter&#233;s por el Coliseo."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario italiano."/>
+		</Roma>
+		
+		<SanMarino>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Quer&#237;a visitar el monte Titano."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario italiano."/>
+		</SanMarino>
+		
+		<Singapur>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lares."/>
+			<Biblioteca pista="Quer&#237;a visitar el puente helix."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ingl&#233;s."/>
+		</Singapur>
+		
+		<Sidney>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lares."/>
+			<Biblioteca pista="Quer&#237;a conocer el Gran Desierto Arenoso."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario ingl&#233;s."/>
+		</Sidney>
+		
+		<Tokio>
+			<Bolsa pista="Cambi&#243; su dinero a yen."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el Monte Fuji."/>
+			<Puerto pista="Quer&#237;a conseguir un diccionario japon&#233;s."/>
+		</Tokio>
+		
+		<Castanio pista="Ten&#237;a el pelo Casta&#241;o."/>
+		<Rubio pista="Ten&#237;a el pelo Rubio."/>
+		<Rojo pista="Ten&#237;a el pelo Rojo."/>
+		<Negro pista="Ten&#237;a el pelo Negro."/>
+		<Tenis pista="Dijo que le gustaba jugar al Tenis."/>
+		<Musica pista="Dijo que amaba la M&#250;sica."/>
+		<Alpinismo pista="Dijo que le fascinaba el Alpinismo."/>
+		<Natacion pista="Dijo que le gustaba Nadar."/>
+		<Croquet pista="Dijo que le gustaba jugar al Croquet."/>
+		<Paracaidismo pista="Dijo que le gustaba el Paracaidismo."/>
+		<Anillo pista="Tra&#237;a un Anillo."/>
+		<Tatuaje pista="Ten&#237;a un Tatuaje."/>
+		<Cicatriz pista="Ten&#237;a una Cicatriz."/>
+		<Joyas pista="Llevaba unas valiosas Joyas."/>
+		<Moto pista="Viajaba en una Moto."/>
+		<Descapotable pista="Viajaba en un Descapotable."/>
+		<Deportivo pista="Viajaba en un deportivo."/>
+		<Limusina pista="Viajaba en una Limusina."/>
+
+	</Facil>
+	<Medio>
+		<Atenas>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Dijo que quer&#237;a visitar el Parten&#243;n."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul y blanca."/>
+		</Atenas>
+		
+		<Bagdad>
+			<Bolsa pista="Cambi&#243; su dinero a dinares."/>
+			<Biblioteca pista="Mencion&#243; que quer&#237;a conocer el r&#237;o Tigris."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y negra."/>
+		</Bagdad>
+		
+		<Bamako>
+			<Bolsa pista="Cambi&#243; su dinero a francos CFA."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Islam."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde, amarilla y roja."/>
+		</Bamako>
+		
+		<Bangkok>
+			<Bolsa pista="Cambi&#243; su dinero a baht."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Budismo."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y azul."/>
+		</Bangkok>
+		
+		<Budapest>
+			<Bolsa pista="Cambi&#243; su dinero a forinto."/>
+			<Biblioteca pista="Quer&#237;a ver el r&#237;o Dunabio."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y verde."/>
+		</Budapest>
+		
+		<BuenosAires>
+			<Bolsa pista="Cambi&#243; su dinero a pesos."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Tango."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a un sol en su bandera."/>
+		</BuenosAires>
+		
+		<ElCairo>
+			<Bolsa pista="Cambi&#243; su dinero a libras egipcias."/>
+			<Biblioteca pista="Quer&#237;a visitar la pen&#237;nsula del Sina&#237;."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a un aguila en su bandera."/>
+		</ElCairo>
+		
+		<Colombo>
+			<Bolsa pista="Cambi&#243; su dinero a rupias."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s en visitar el Golfo de Mannar."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a un le&#243;n dorado en su bandera."/>
+		</Colombo>
+		
+		<Estambul>
+			<Bolsa pista="Cambi&#243; su dinero a liras."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el Imperio Otomano."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una media luna y una estrella blanca en su bandera."/>
+		</Estambul>
+		
+		<Katmandu>
+			<Bolsa pista="Cambi&#243; su dinero a rupia nepali."/>
+			<Biblioteca pista="Quer&#237;a conocer el Baruntse."/>
+			<Puerto pista="Viaj&#243; en un transporte que su bandera ten&#237;a forma de dos tri&#225;ngulos."/>
+		</Katmandu>
+		
+		<Kigali>
+			<Bolsa pista="Cambi&#243; su dinero a franco ruand&#233;s."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la mamba negra."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, amarilla y verde."/>
+		</Kigali>
+		
+		<Lima>
+			<Bolsa pista="Cambi&#243; su dinero a soles."/>
+			<Biblioteca pista="Quer&#237;a visitar el monte Huascaran."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y blanca."/>
+		</Lima>
+		
+		<Londres>
+			<Bolsa pista="Cambi&#243; su dinero a libras esterlinas."/>
+			<Biblioteca pista="Quer&#237;a visitar el Big Ben."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y azul."/>
+		</Londres>
+		
+		<MexicoDF>
+			<Bolsa pista="Cambi&#243; su dinero a pesos."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el monstruo de Gila."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde, blanca y roja."/>
+		</MexicoDF>
+		
+		<Montreal>
+			<Bolsa pista="Cambi&#243; su dinero a dolar canadiense."/>
+			<Biblioteca pista="Quer&#237;a visitar las cascadas de Montmorency."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a en su bandera una hoja de arce."/>
+		</Montreal>
+		
+		<Moroni>
+			<Bolsa pista="Cambi&#243; su dinero a franco comorense."/>
+			<Biblioteca pista="Quer&#237;a visitar el karthala."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a en su bandera una media luna y 4 estrellas."/>
+		</Moroni>
+		
+		<Moscu>
+			<Bolsa pista="Cambi&#243; su dinero a rublo ruso."/>
+			<Biblioteca pista="Quer&#237;a conocer los montes Urales."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera blanca, azul y roja."/>
+		</Moscu>
+		
+		<NuevaDelhi>
+			<Bolsa pista="Cambi&#243; su dinero a rupias indias."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la v&#237;bora gariba."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera de color azafran, blanco y verde."/>
+		</NuevaDelhi>
+		
+		<NuevaYork>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lar."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la Estatua de la Libertad."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, blanca y roja."/>
+		</NuevaYork>
+		
+		<Oslo>
+			<Bolsa pista="Cambi&#243; su dinero a rupias indias."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la v&#237;bora gariba."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera de color azafr&#225;n, blanco y verde."/>
+		</Oslo>
+		
+		<Paris>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Mencion&#243; que quer&#237;a visitar la Torre Eiffel."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, blanca y roja."/>
+		</Paris>
+		
+		<Pekin>
+			<Bolsa pista="Cambi&#243; su dinero a yuan."/>
+			<Biblioteca pista="Dijo que quer&#237;a conocer la Ciudad Prohibida."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja con cinco estrellas amarillas."/>
+		</Pekin>
+		
+		<PortMoresby>
+			<Bolsa pista="Cambi&#243; su dinero a kinas."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el volc&#225;n Karkar."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y negra, con un ave de color amarillo."/>
+		</PortMoresby>
+		
+		<Reykiavik>
+			<Bolsa pista="Cambi&#243; su dinero a coronas."/>
+			<Biblioteca pista="Quer&#237;a visitar la Torre imagina la paz."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul y roja."/>
+		</Reykiavik>
+		
+		<RiodeJaneiro>
+			<Bolsa pista="Cambi&#243; su dinero a reales."/>
+			<Biblioteca pista="Quer&#237;a visitar la estatua del Cristo Redentor."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde, azul y amarilla."/>
+		</RiodeJaneiro>
+		
+		<Roma>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Mencion&#243; su inter&#233;s por el Coliseo."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde blanca y roja."/>
+		</Roma>
+		
+		<SanMarino>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Quer&#237;a visitar el monte Titano."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera blanca y celeste con un escudo."/>
+		</SanMarino>
+		
+		<Singapur>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lares."/>
+			<Biblioteca pista="Quer&#237;a visitar el puente helix."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y blanca."/>
+		</Singapur>
+		
+		<Sidney>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lares."/>
+			<Biblioteca pista="Quer&#237;a conocer el Gran Desierto Arenoso."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, blanca y roja."/>
+		</Sidney>
+		
+		<Tokio>
+			<Bolsa pista="Cambi&#243; su dinero a yen."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el Monte Fuji."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y blanca."/>
+		</Tokio>
+		
+		<Castanio pista="Ten&#237;a el pelo Casta&#241;o."/>
+		<Rubio pista="Ten&#237;a el pelo Rubio."/>
+		<Rojo pista="Ten&#237;a el pelo Rojo."/>
+		<Negro pista="Ten&#237;a el pelo Negro."/>
+		<Tenis pista="Dijo que le gustaba jugar al Tenis."/>
+		<Musica pista="Dijo que amaba la M&#250;sica."/>
+		<Alpinismo pista="Dijo que le fascinaba el Alpinismo."/>
+		<Natacion pista="Dijo que le gustaba Nadar."/>
+		<Croquet pista="Dijo que le gustaba jugar al Croquet."/>
+		<Paracaidismo pista="Dijo que le gustaba el Paracaidismo."/>
+		<Anillo pista="Tra&#237;a un Anillo."/>
+		<Tatuaje pista="Ten&#237;a un Tatuaje."/>
+		<Cicatriz pista="Ten&#237;a una Cicatriz."/>
+		<Joyas pista="Llevaba unas valiosas Joyas."/>
+		<Moto pista="Viajaba en una Moto."/>
+		<Descapotable pista="Viajaba en un Descapotable."/>
+		<Deportivo pista="Viajaba en un deportivo."/>
+		<Limusina pista="Viajaba en una Limusina."/>
+	</Medio>
+	
+	<Dificil>
+		<Atenas>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Dijo que quer&#237;a visitar el Parten&#243;n."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul y blanca."/>
+		</Atenas>
+		
+		<Bagdad>
+			<Bolsa pista="Cambi&#243; su dinero a dinares."/>
+			<Biblioteca pista="Mencion&#243; que quer&#237;a conocer el r&#237;o Tigris."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y negra."/>
+		</Bagdad>
+		
+		<Bamako>
+			<Bolsa pista="Cambi&#243; su dinero a francos CFA."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Islam."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde, amarilla y roja."/>
+		</Bamako>
+		
+		<Bangkok>
+			<Bolsa pista="Cambi&#243; su dinero a baht."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Budismo."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y azul."/>
+		</Bangkok>
+		
+		<Budapest>
+			<Bolsa pista="Cambi&#243; su dinero a forinto."/>
+			<Biblioteca pista="Quer&#237;a ver el r&#237;o Dunabio."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y verde."/>
+		</Budapest>
+		
+		<BuenosAires>
+			<Bolsa pista="Cambi&#243; su dinero a pesos."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s sobre el Tango."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a un sol en su bandera."/>
+		</BuenosAires>
+		
+		<ElCairo>
+			<Bolsa pista="Cambi&#243; su dinero a libras egipcias."/>
+			<Biblioteca pista="Quer&#237;a visitar la pen&#237;nsula del Sina&#237;."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a un aguila en su bandera."/>
+		</ElCairo>
+		
+		<Colombo>
+			<Bolsa pista="Cambi&#243; su dinero a rupias."/>
+			<Biblioteca pista="Ten&#237;a inter&#233;s en visitar el Golfo de Mannar."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a un le&#243;n dorado en su bandera."/>
+		</Colombo>
+		
+		<Estambul>
+			<Bolsa pista="Cambi&#243; su dinero a liras."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el Imperio Otomano."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una media luna y una estrella blanca en su bandera."/>
+		</Estambul>
+		
+		<Katmandu>
+			<Bolsa pista="Cambi&#243; su dinero a rupia nepali."/>
+			<Biblioteca pista="Quer&#237;a conocer el Baruntse."/>
+			<Puerto pista="Viaj&#243; en un transporte que su bandera ten&#237;a forma de dos tri&#225;ngulos."/>
+		</Katmandu>
+		
+		<Kigali>
+			<Bolsa pista="Cambi&#243; su dinero a franco ruand&#233;s."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la mamba negra."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, amarilla y verde."/>
+		</Kigali>
+		
+		<Lima>
+			<Bolsa pista="Cambi&#243; su dinero a soles."/>
+			<Biblioteca pista="Quer&#237;a visitar el monte Huascaran."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y blanca."/>
+		</Lima>
+		
+		<Londres>
+			<Bolsa pista="Cambi&#243; su dinero a libras esterlinas."/>
+			<Biblioteca pista="Quer&#237;a visitar el Big Ben."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja, blanca y azul."/>
+		</Londres>
+		
+		<MexicoDF>
+			<Bolsa pista="Cambi&#243; su dinero a pesos."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el monstruo de Gila."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde, blanca y roja."/>
+		</MexicoDF>
+		
+		<Montreal>
+			<Bolsa pista="Cambi&#243; su dinero a dolar canadiense."/>
+			<Biblioteca pista="Quer&#237;a visitar las cascadas de Montmorency."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a en su bandera una hoja de arce."/>
+		</Montreal>
+		
+		<Moroni>
+			<Bolsa pista="Cambi&#243; su dinero a franco comorense."/>
+			<Biblioteca pista="Quer&#237;a visitar el karthala."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a en su bandera una media luna y 4 estrellas."/>
+		</Moroni>
+		
+		<Moscu>
+			<Bolsa pista="Cambi&#243; su dinero a rublo ruso."/>
+			<Biblioteca pista="Quer&#237;a conocer los montes Urales."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera blanca, azul y roja."/>
+		</Moscu>
+		
+		<NuevaDelhi>
+			<Bolsa pista="Cambi&#243; su dinero a rupias indias."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la v&#237;bora gariba."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera de color azafran, blanco y verde."/>
+		</NuevaDelhi>
+		
+		<NuevaYork>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lar."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la Estatua de la Libertad."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, blanca y roja."/>
+		</NuevaYork>
+		
+		<Oslo>
+			<Bolsa pista="Cambi&#243; su dinero a rupias indias."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre la v&#237;bora gariba."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera de color azafr&#225;n, blanco y verde."/>
+		</Oslo>
+		
+		<Paris>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Mencion&#243; que quer&#237;a visitar la Torre Eiffel."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, blanca y roja."/>
+		</Paris>
+		
+		<Pekin>
+			<Bolsa pista="Cambi&#243; su dinero a yuan."/>
+			<Biblioteca pista="Dijo que quer&#237;a conocer la Ciudad Prohibida."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja con cinco estrellas amarillas."/>
+		</Pekin>
+		
+		<PortMoresby>
+			<Bolsa pista="Cambi&#243; su dinero a kinas."/>
+			<Biblioteca pista="Ten&#237;a interes sobre el volc&#225;n Karkar."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y negra, con un ave de color amarillo."/>
+		</PortMoresby>
+		
+		<Reykiavik>
+			<Bolsa pista="Cambi&#243; su dinero a coronas."/>
+			<Biblioteca pista="Quer&#237;a visitar la Torre imagina la paz."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul y roja."/>
+		</Reykiavik>
+		
+		<RiodeJaneiro>
+			<Bolsa pista="Cambi&#243; su dinero a reales."/>
+			<Biblioteca pista="Quer&#237;a visitar la estatua del Cristo Redentor."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde, azul y amarilla."/>
+		</RiodeJaneiro>
+		
+		<Roma>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Mencion&#243; su inter&#233;s por el Coliseo."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera verde blanca y roja."/>
+		</Roma>
+		
+		<SanMarino>
+			<Bolsa pista="Cambi&#243; su dinero a euros."/>
+			<Biblioteca pista="Quer&#237;a visitar el monte Titano."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera blanca y celeste con un escudo."/>
+		</SanMarino>
+		
+		<Singapur>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lares."/>
+			<Biblioteca pista="Quer&#237;a visitar el puente helix."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y blanca."/>
+		</Singapur>
+		
+		<Sidney>
+			<Bolsa pista="Cambi&#243; su dinero a d&#243;lares."/>
+			<Biblioteca pista="Quer&#237;a conocer el Gran Desierto Arenoso."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera azul, blanca y roja."/>
+		</Sidney>
+		
+		<Tokio>
+			<Bolsa pista="Cambi&#243; su dinero a yen."/>
+			<Biblioteca pista="Pidi&#243; informaci&#243;n sobre el Monte Fuji."/>
+			<Puerto pista="Viaj&#243; en un transporte que ten&#237;a una bandera roja y blanca."/>
+		</Tokio>
+		
+		<Castanio pista="Ten&#237;a el pelo Casta&#241;o."/>
+		<Rubio pista="Ten&#237;a el pelo Rubio."/>
+		<Rojo pista="Ten&#237;a el pelo Rojo."/>
+		<Negro pista="Ten&#237;a el pelo Negro."/>
+		<Tenis pista="Dijo que le gustaba jugar al Tenis."/>
+		<Musica pista="Dijo que amaba la M&#250;sica."/>
+		<Alpinismo pista="Dijo que le fascinaba el Alpinismo."/>
+		<Natacion pista="Dijo que le gustaba Nadar."/>
+		<Croquet pista="Dijo que le gustaba jugar al Croquet."/>
+		<Paracaidismo pista="Dijo que le gustaba los deportes de alto riesgo"/>
+		<Anillo pista="Tra&#237;a un Anillo."/>
+		<Tatuaje pista="Ten&#237;a un Tatuaje."/>
+		<Cicatriz pista="Ten&#237;a una Cicatriz."/>
+		<Joyas pista="Llevaba unas valiosas Joyas."/>
+		<Moto pista="Llevaba puesto un casco."/>
+		<Descapotable pista="Viajaba en un Descapotable."/>
+		<Deportivo pista="Viajaba en un deportivo."/>
+		<Limusina pista="Viajaba en una Limusina."/>
+	</Dificil>
+</Pistas>

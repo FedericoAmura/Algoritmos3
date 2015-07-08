@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ladrones>
+	<ladron cabello="Castanio" hobby="Tenis" nombre="jose" senia="Anillo" sexo="Masculino" vehiculo="Descapotable"/>
+	<ladron cabello="Rubio" hobby="Musica" nombre="Maria" senia="Cicatriz" sexo="Femenino" vehiculo="Limusina"/>
+	<ladron cabello="Rojo" hobby="Alpinismo" nombre="Nick Brunch" senia="Joyas" sexo="Masculino" vehiculo="Deportivo"/>
+	<ladron cabello="Negro" hobby="Paracaidismo" nombre="Len Bulk" senia="Tatuaje" sexo="Masculino" vehiculo="Moto"/>
+	<ladron cabello="Castanio" hobby="Natacion" nombre="Ihor Ihorovitch" senia="Tatuaje" sexo="Masculino" vehiculo="Limusina"/>
+	<ladron cabello="Rubio" hobby="Croquet" nombre="Fast Eddie B." senia="Joyas" sexo="Masculino" vehiculo="Moto"/>
+	<ladron cabello="Rojo" hobby="Tenis" nombre="Scar Graynolt" senia="Anillo" sexo="Masculino" vehiculo="Deportivo"/>
+	<ladron cabello="Negro" hobby="Musica" nombre="Merey Laroc" senia="Cicatriz" sexo="Femenino" vehiculo="Descapotable"/>
+	<ladron cabello="Castanio" hobby="Alpinismo" nombre="Lady Agatha" senia="Anillo" sexo="Femenino" vehiculo="Deportivo"/>
+	<ladron cabello="Rubio" hobby="Natacion" nombre="Katherine Drib" senia="Tatuaje" sexo="Femenino" vehiculo="Moto"/>
+	<ladron cabello="Rojo" hobby="Croquet" nombre="Dazzle Annie" senia="Cicatriz" sexo="Masculino" vehiculo="Limusina"/>
+	<ladron cabello="Negro" hobby="Tenis" nombre="Carmen Sandiego" senia="Joyas" sexo="Femenino" vehiculo="Descapotable"/>
+	<ladron cabello="Castanio" hobby="Musica" nombre="Luciana" senia="Anillo" sexo="Femenino" vehiculo="Deportivo"/>
+</ladrones>
